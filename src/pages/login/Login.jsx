@@ -5,11 +5,12 @@ const Login = () => {
         <div className="login">
           <div className="card">
             <div className="left">
-              <h1>Hello World.</h1>
+              <h1>Hivemind</h1>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero cum,
-                alias totam numquam ipsa exercitationem dignissimos, error nam,
-                consequatur.
+              Welcome to Hivemind - the social media app that brings people together! Our user-friendly platform is designed for those who crave social interaction and connectivity. 
+              Join existing groups or create your own, join discussions and meet new people from all overd. 
+              With Hivemind, you can share your thoughts and experiences with like-minded individuals in a diverse and inclusive community. 
+              Join us today and become a part of our growing community!
               </p>
               <span>Don't you have an account?</span>
                 <button>Register</button>
